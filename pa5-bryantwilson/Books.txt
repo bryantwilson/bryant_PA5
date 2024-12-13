@@ -1,0 +1,4 @@
+1#Title#Author#Horror#5#0
+2#Big Title#Smol Author#Cool#7#2
+8#Escape From Tarkov#BattleGate#Distopian#9#-1
+65#Boktitle#jeffrey#scary#7#0
